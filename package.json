@@ -1,12 +1,14 @@
 {
   "name": "graphs",
   "version": "1.0.0",
-  "description": "The data in the data.json file represent the data point to be plotted on a line graph.",
-  "main": "index.js",
+  "description": "Extract data point to be plotted on a line graph.",
   "scripts": {
-    "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Roberto Massimini",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
 }
