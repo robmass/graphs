@@ -1,3 +1,5 @@
+# Problem
+
 The data in the data.json file represent the data point to be plotted on a line graph.
 
 - Write a function that having a start_date and an end_date as input returns the subset of data included between the two for the slug ‘aggregation-overall’ and for the key ‘score’
